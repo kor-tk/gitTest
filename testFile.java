@@ -1,5 +1,3 @@
-package kim.score_kim;
-
 import android.content.Intent;
 import android.os.Handler;
 import android.os.Message;
